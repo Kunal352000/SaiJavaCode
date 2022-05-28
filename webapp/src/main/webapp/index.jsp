@@ -1,3 +1,3 @@
-<h1> Hello Everyone this is IT final year student of svvv </h1>
-<h2> By Mr. kunal  from Svvv </h2>
-<h3> kunal Joshi </h3>
+<h1> Hello Everyone My Name is Kunal Joshi </h1>
+<h2> I am completed my B.tech from SVVV </h2>
+<h2> Its time to Start DevOps Project </h2>
